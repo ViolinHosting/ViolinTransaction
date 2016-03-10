@@ -1,5 +1,9 @@
-# mean-stack-registration-login-example
+# Violin Transaction
 
-MEAN Stack User Registration and Login Example Application
+Install NodeJS
+Install MangoDB
 
-To see a demo and further details go to http://jasonwatmore.com/post/2015/12/09/MEAN-Stack-User-Registration-and-Login-Example.aspx
+1. Start MongoDB by running "mongod"
+2. Go to root directory:
+ run "node server.js" to start the project
+
